@@ -1,9 +1,9 @@
 # Keshaqaz Homebrew tap
 
 ```sh
-brew install keshaqaz/tap/codex-auto-resets
+brew install keshaqaz/tap/aures
 ```
 
 | Formula | Project |
 | --- | --- |
-| `codex-auto-resets` | [ARES — Auto-RESets for Codex](https://github.com/Keshaqaz/ares) |
+| `aures` | [ARES — Auto-RESets for Codex](https://github.com/Keshaqaz/ares) |
