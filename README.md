@@ -6,4 +6,4 @@ brew install keshaqaz/tap/aures
 
 | Formula | Project |
 | --- | --- |
-| `aures` | [ARES — Auto-RESets for Codex](https://github.com/Keshaqaz/ares) |
+| `aures` | [AURES — AUto-RESets for Codex](https://github.com/Keshaqaz/aures) |
