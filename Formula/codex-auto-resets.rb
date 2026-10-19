@@ -1,8 +1,8 @@
 class CodexAutoResets < Formula
   desc "Applies issued ChatGPT Codex resets from your own GitHub Actions worker"
   homepage "https://github.com/Keshaqaz/ares"
-  url "https://github.com/Keshaqaz/ares/releases/download/v0.1.0/codex-auto-resets-0.1.0.tgz"
-  sha256 "36ec30f388f29a5ad21ca7eaf45c6a6224a6efd552decba7eda1f17ee82e5ea8"
+  url "https://github.com/Keshaqaz/ares/releases/download/v0.2.0/codex-auto-resets-0.2.0.tgz"
+  sha256 "bcc36f7ba8fdf99143b90d7e0d5ff05e541b9c1559e62be1632fa19077a1b266"
   license "MIT"
 
   depends_on "node"
