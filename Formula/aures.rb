@@ -1,8 +1,8 @@
 class Aures < Formula
   desc "Applies issued ChatGPT Codex resets from your own GitHub Actions worker"
   homepage "https://github.com/Keshaqaz/aures"
-  url "https://github.com/Keshaqaz/aures/releases/download/v0.4.4/aures-0.4.4.tgz"
-  sha256 "b2a49e70d2c7313e68122e26a5aeb37774e3e3cf6dd714426e2a18f482934efb"
+  url "https://github.com/Keshaqaz/aures/releases/download/v0.5.0/aures-0.5.0.tgz"
+  sha256 "f7253c9729cb59038163a6ecc8d35541a56692a82a1ae3a14a65368fb501227f"
   license "MIT"
 
   depends_on "node"
