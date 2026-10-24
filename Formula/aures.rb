@@ -1,8 +1,8 @@
 class Aures < Formula
-  desc "Applies issued ChatGPT Codex resets from your own GitHub Actions worker"
+  desc "Applies ChatGPT Codex resets from your own GitHub or Google Apps Script worker"
   homepage "https://github.com/Keshaqaz/aures"
-  url "https://github.com/Keshaqaz/aures/releases/download/v0.5.0/aures-0.5.0.tgz"
-  sha256 "f7253c9729cb59038163a6ecc8d35541a56692a82a1ae3a14a65368fb501227f"
+  url "https://github.com/Keshaqaz/aures/releases/download/v0.5.1/aures-0.5.1.tgz"
+  sha256 "0af888ed90020ec71be2151f3df4092557a4d7d372dda7ae600a0b6bc5ef0c05"
   license "MIT"
 
   depends_on "node"
